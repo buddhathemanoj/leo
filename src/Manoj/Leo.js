@@ -5,17 +5,15 @@ export const Leo=()=>{
     return(
         <div>
             <h1>LEO</h1>
-           <div >
-             <NavLink className="marginright" to="/about">About</NavLink>
-             <NavLink className="marginright" to="/Interaction">Interaction</NavLink> 
-             <NavLink className="marginright" to="/Branding">Branding</NavLink>
-            <NavLink className="marginright" to="/brand">Brand</NavLink>
-            <NavLink className="marginright" to="/Blockchain">Blockchain</NavLink>
-            <NavLink className="marginright" to="/Design">Design</NavLink>
-            <NavLink className="marginright" to="/chatgpt">Chatgpt</NavLink>
-            <NavLink className="marginright" to="/design">Designn siva</NavLink> 
-           </div>
-                     
+           
+                      <NavLink to="/about">About</NavLink>
+             <NavLink to="/Interaction">Interaction</NavLink> 
+             <NavLink to="/Branding">Branding</NavLink>
+            <NavLink to="/brand">Brand</NavLink>
+            <NavLink to="/Blockchain">Blockchain</NavLink>
+            <NavLink to="/Design">Design</NavLink>
+            <NavLink to="/chatgpt">Chatgpt</NavLink>
+            <NavLink to="/design">Designn siva</NavLink> 
          
      
         </div>

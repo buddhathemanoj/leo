@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.webp";
 import "./Design.css"
 import image from "./image.webp"
 export const Design=()=>{
