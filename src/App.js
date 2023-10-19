@@ -32,7 +32,7 @@ function App() {
           <Route path="/Branding" element={<Branding />} />
           <Route path="/Blockchain" element={<Blockchain />} />
           <Route path="/Design" element={<Design/>} />
-          <Route path='/chatgpt'element={<Tablet />}></Route>
+          <Route path='/chatgptt'element={<Tablet />}></Route>
           <Route path="/Design" element={<Designn />} />
         </Routes>
       </Router>
