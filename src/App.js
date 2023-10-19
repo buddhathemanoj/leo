@@ -5,6 +5,13 @@ import { Interaction } from './Arul/Interaction';
 import { Tshirt } from './Arul/Tshirt';
 import { NEWARRIVALS, Newarr } from './Arul/NEWARRIVALS';
 
+import { Tablet } from './rosan/Chatgpt';
+
+
+import { Design } from './Sivakumar/Design';
+import { Nav } from './Sivakumar/Nav';
+
+
 function App() {
   return (
     <div className="App">
@@ -12,6 +19,13 @@ function App() {
         <Routes>
           <Route path="/" element={<Leo />} />
           
+
+
+
+          <Route path="/Nav" element={<Nav />} />
+          
+
+
         </Routes>
       </Router>
     </div>
