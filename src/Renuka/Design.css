@@ -1,0 +1,67 @@
+.heading{
+    text-align: center;
+   
+}
+.about{
+    font-size: 70px;
+    font-weight: 500;
+   
+    line-height: 70px; 
+}
+.heading h3{
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 10px;
+    line-height: 40px;
+    color:#7E7E7E !important ;
+}
+.sub{
+    display: flex;
+ gap: 180px;
+}
+.sub1{
+    text-align: center;
+}
+.sub2{
+    text-align: center;
+}
+.sub3{
+    text-align: center;
+    
+}
+.car{
+   
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.sub21{
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 10px;
+    line-height: 40px;
+    color:#7E7E7E !important ;
+}
+.image{
+    width: 1140px;
+    height: 427.5px;
+}
+.footer{
+    display: flex;
+    gap:100px;
+}
+.f1{
+   color:black;
+   text-align: left;
+   background-color: transparent;
+   font-size: 16px;
+ 
+}
+.f2{
+    font-size: 16px;
+ font-style: inherit;
+ color: #7E7E7E;
+ text-align: left;
+}

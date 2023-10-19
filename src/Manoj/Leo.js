@@ -6,6 +6,7 @@ export const Leo=()=>{
         <div>
             <h1>LEO</h1>
             <NavLink to="/about">About</NavLink>
+            
         </div>
     )
 }
