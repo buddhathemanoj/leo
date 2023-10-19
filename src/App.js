@@ -9,17 +9,13 @@ import { Leo } from './Manoj/Leo';
 
 
 
+
 function App() {
   return (
     <div className="App">
       <Router>
         <Routes>
           <Route path="/" element={<Leo />} />
-          
-
-
-
-         
           
 
 
