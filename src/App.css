@@ -34,7 +34,10 @@ align-items: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.marginright{
+  font-size: 30px;
+  margin-right: 10px;
+}
 .App-link {
   color: #61dafb;
 }
