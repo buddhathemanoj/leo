@@ -1,0 +1,27 @@
+.zoho{
+    width: 130px;
+    height: 65px;
+}
+.tp{
+    display: flex;
+}
+.pro{
+    font-size: larger;
+    color: black;
+    text-decoration: none;
+    margin-left: 100px;
+    text-decoration: underline solid white;
+}
+.te{
+    display: flex;
+}
+.sb{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    border: none;
+    margin-left: 250px;
+    margin-top: 10px;
+}
