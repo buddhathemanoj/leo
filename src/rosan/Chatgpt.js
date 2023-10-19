@@ -44,8 +44,7 @@ export const Tablet =()=>{
         </div>
     )
 }
-/* <NavLink to="/chatgpt">Chatgpt</NavLink> */
-/* <Route path='/chatgpt'element={<Tablet />}></Route> */
+
 
 
 

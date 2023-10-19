@@ -73,5 +73,4 @@ export const Blockchain =()=> {
     )
 }
 
-{/* <NavLink to="/Blockchain">Blockchain</NavLink> */}
-{/* <Route path="/Blockchain" element={<Blockchain />} /> */}
+

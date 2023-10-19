@@ -1,6 +1,6 @@
 import React from "react";
 import './Design.css'
-export const Design =()=> {
+export const Designn =()=> {
     return(
         <div>
         <div className="image">
@@ -17,6 +17,5 @@ Unlimited movies, TV shows and more</h1>
     )
 }
 
-{/* <NavLink to="/Design">Design</NavLink> */}
-{/* <Route path="/Design" element={<Design />} /> */}
+
            

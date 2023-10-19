@@ -123,6 +123,3 @@ export const Branding= () =>{
           
     )
 }
-{/* <NavLink to="/Branding">Branding</NavLink> */}
-{/* <Route path="/Branding" element={<Branding />} /> */}
-// import { Branding } from './Bala/Branding';
