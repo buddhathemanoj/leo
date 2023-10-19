@@ -67,6 +67,3 @@ export const Design=()=>{
     )
 }
 
-{/* <Route path="/Design" element={<Design/>} /> */}
-
-{/* <NavLink to="/Design">Design</NavLink> */}

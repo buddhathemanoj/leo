@@ -59,7 +59,3 @@ export const Interaction = () => {
 
     )
 }
-/* <NavLink to="/Interaction">Interaction</NavLink> */
-/* <Route path="/Interaction" element={<Interaction />} />
-          <Route path="/Tshirt" element={<Tshirt/>} />
-          <Route path="/NEWARRIVALS" element={<NEWARRIVALS/>} />} */
