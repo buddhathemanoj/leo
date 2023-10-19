@@ -1,0 +1,96 @@
+h1{
+   text-align: center;
+   font: 26px  Roboto,sans-serif;
+}
+
+.search i{
+    position: absolute;
+ margin-left: -600px;
+margin-top: 90px;
+}
+
+.meu1{
+
+    text-align: center;
+    background-color: #122345;
+    width: 1500px;
+    color:#CDCDCD;
+    padding: 12px;
+    top: 0;
+    font: 16px Helvetica;
+   position: fixed;
+   margin-left: -80px;
+   text-align: center;
+   
+}
+
+.clr{
+    color: red;
+}
+.menubar{
+    padding: 3px;
+    background-color:white;
+
+
+
+}
+.menubar li .a{
+ color:black;
+ font: 14px Roboto,sans-serif;
+letter-spacing: 0px;
+text-decoration: none;
+
+}
+.menubar li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+  margin-right: 20px;
+ 
+}
+.menubar ul{
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 40px;
+}
+.body h1{
+    text-align: center;
+    font: 36px Roboto,sans-serif;
+    color: #122345;
+}
+ul img{
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+   margin-left: 50px;
+   margin-right: 80px;
+}
+
+.dress1 img{
+    width: 330px;
+   
+}
+li a{
+    color: #475a81;
+    font:11.25px Roboto,sans-serif;
+    letter-spacing: 4px;
+}
+.rs{
+    color: #1C1D1D;
+    font:12.75px Roboto,sans-serif;
+    letter-spacing: 3px;
+}
+.add{
+ 
+    font: "Proxima Nova";
+    border-radius:50px;
+    color: white;
+    background-color:#17195C;
+    height: 58px;
+    width: 137px;
+    position: fixed;
+    bottom: 0px;
+    margin-left: -650px;
+    margin-bottom: 20px;
+    
+}
